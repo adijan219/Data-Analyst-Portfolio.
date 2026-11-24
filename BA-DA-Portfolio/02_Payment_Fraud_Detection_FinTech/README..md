@@ -1,6 +1,6 @@
 # Payment Fraud Detection: Where to Set the Alert Threshold
 
-**Author:** YOUR NAME  |  **Tools:** SQL (SQLite), Python (pandas, scikit-learn), Excel-style KPI framework
+**Author:** Aditya Pandey  |  **Tools:** SQL (SQLite), Python (pandas, scikit-learn), Excel-style KPI framework
 
 ## Summary
 
