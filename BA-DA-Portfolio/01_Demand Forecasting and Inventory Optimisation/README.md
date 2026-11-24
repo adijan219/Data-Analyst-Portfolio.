@@ -2,7 +2,7 @@
 
 *Forecast daily demand for 500 store-item series, size safety stock from measured forecast error, and test in simulation whether a forecast-driven replenishment policy beats the rules most small distributors use.*
 
-**Author:** YOUR NAME  |  **Stack:** Python, pandas, LightGBM, NumPy  |  **Type:** end-to-end analytics case study with business requirements
+**Author:** Aditya Pandey  |  **Stack:** Python, pandas, LightGBM, NumPy  |  **Type:** end-to-end analytics case study with business requirements
 
 [One-page executive summary](docs/executive_summary.md) | [BRD](docs/BRD.md) | [User stories](docs/user_stories.md) | [KPIs](docs/kpis.md) | [Process flow](docs/process_flow.md) | [Traceability](docs/traceability_matrix.md)
 
