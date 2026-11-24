@@ -1,6 +1,6 @@
 # Business Requirements Document: Payment Fraud Detection
 
-**Author:** YOUR NAME  |  **Version:** 1.0  |  **Status:** Draft
+**Author:** Aditya Pandey  |  **Version:** 1.0  |  **Status:** Draft
 
 > Portfolio case study built on the public Kaggle Credit Card Fraud dataset. Stakeholders, requirements and cost figures are hypothetical and stated as assumptions.
 
