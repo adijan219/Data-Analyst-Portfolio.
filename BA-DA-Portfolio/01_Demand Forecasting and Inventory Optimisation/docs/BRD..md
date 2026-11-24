@@ -6,8 +6,8 @@
 
 | Version | Date | Author | Change |
 |---|---|---|---|
-| 1.0 | Nov 2026 | YOUR NAME | Initial draft |
-| 2.0 | Nov 2026 | YOUR NAME | Added measurable objectives, data requirements, assumption and risk registers, business case, pilot plan, glossary |
+| 1.0 | Nov 2026 | Aditya Pandey | Initial draft |
+| 2.0 | Nov 2026 | Aditya Pandey | Added measurable objectives, data requirements, assumption and risk registers, business case, pilot plan, glossary |
 
 **Status:** Draft for discussion. **Related:** [Executive summary](executive_summary.md) | [User stories](user_stories.md) | [KPIs](kpis.md) | [Process flow](process_flow.md) | [Traceability](traceability_matrix.md)
 
