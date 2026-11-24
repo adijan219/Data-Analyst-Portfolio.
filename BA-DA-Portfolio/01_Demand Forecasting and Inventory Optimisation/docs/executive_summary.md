@@ -1,6 +1,6 @@
 # Executive Summary: Replace the 28-Day Rule of Thumb with Forecast-Driven Replenishment
 
-**Prepared for:** Operations Manager and Finance Head (hypothetical)  |  **Prepared by:** YOUR NAME  |  **Evidence:** backtests and a simulation on public data
+**Prepared for:** Operations Manager and Finance Head (hypothetical)  |  **Prepared by:** Aditya Pandey  |  **Evidence:** backtests and a simulation on public data
 
 ## Recommendation
 
